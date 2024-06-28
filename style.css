@@ -355,3 +355,28 @@ form button {
 .section-5 {
   width: 100%;
 }
+
+
+.featured-container {
+  width: 90%;
+  margin: 20px auto;
+  /* border: 2px solid green; */
+
+}
+
+.featured-container h3 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.featured-item {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+}
+
+.featured-item li {
+  list-style: none;
+  text-transform: capitalize;
+  font-size: 14px;
+}
